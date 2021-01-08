@@ -1,5 +1,5 @@
 # IdentifyImages
-this app is test for using Machine Learning in identifier images from pre-trained model , build using Blazor, Tensorflow and ML.NET
+this app is test for using Machine Learning in identifying and classifying images from pre-trained model , build using Blazor, Tensorflow and ML.NET
 
 ## Notes
 * <a href="https://github.com/dotnet/machinelearning-samples/tree/master/samples/csharp/getting-started/DeepLearning_ImageClassification_TensorFlow/ImageClassification/assets/inputs/inception" >The Pre-trained model</a> used from Microsoft inspired from <a href="https://docs.microsoft.com/en-us/dotnet/machine-learning/tutorials/image-classification">this article</a>
