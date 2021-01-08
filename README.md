@@ -7,9 +7,11 @@ this app is test for using Machine Learning in identifying and classifying image
 
 
 ## Install
-- Clone Or Download the reposotiry
-- Run ModelBuilder from vs to Generate ProdutionModel.zip file
-- build and run the blazerClient
+```bash
+git clone https://github.com/aboelkassem/IdentifyImages.git
+```
+- Open ModelBuilder.sln and buid the project to generate ProdutionModel.zip file
+- Open blazerClient.sln and run the project
 
 ## Screenshots
 <img src="https://github.com/aboelkassem/IdentifyImages/blob/master/identitfyTesting.gif"/>
